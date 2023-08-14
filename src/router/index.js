@@ -27,6 +27,7 @@ export async function resetRouter() {
   })
 }
 
+
 export async function addDynamicRoutes() {
   const token = getToken()
 
